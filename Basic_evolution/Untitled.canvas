@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"4b81882ee2082a19","type":"group","x":-26,"y":31,"width":400,"height":400,"label":"Qq11"},
-		{"id":"d36353d513069bcd","type":"file","file":"First Outlines of UES.md","x":206,"y":31,"width":433,"height":697}
-	],
-	"edges":[]
-}
