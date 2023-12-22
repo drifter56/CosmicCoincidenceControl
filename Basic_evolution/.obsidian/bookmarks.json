@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1698188235543,
+      "items": [],
+      "title": "Untitled group"
+    },
+    {
+      "type": "group",
+      "ctime": 1698189704359,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1698188727562,
+          "path": "First Outlines of UES.md",
+          "title": "Trachtenwrerden  "
+        }
+      ],
+      "title": "Untitled group"
+    },
+    {
+      "type": "file",
+      "ctime": 1698209620717,
+      "path": "2023-10-25.md",
+      "title": "fundamental pressfreedom issues"
+    }
+  ]
+}
