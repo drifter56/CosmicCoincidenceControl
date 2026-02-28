@@ -1,0 +1,26 @@
+<html>
+	<head>
+		<title> LINK-LIST dut</title>
+		<style>
+    .ref { font-size: 150% ; background-color: #DD9900; margin-bottom: 10}
+    .test { font-family: Courier; font-size: 20% background-color: rgb(0% 50% 0%)}
+    .test2 { font-family: Courier; font-size: 90% ; background-color: rgb(0% 50% 0%) ; }
+</style>
+	</head>
+ <body style="background-color: "#ff8888"; color: black; link: red" >
+
+	 <center><p class="ref"> Ein paar URLs:</p></center>
+	 <hr>
+	 <p class="ref">
+	 <li><a  href="https://european-alternatives.cloud/de">Europäische Alternativen</a></p><p class="test">
+		 (site created by <a href="https://www.youtube.com/@TheMorpheusVlogs">morpheus</a>, a <b><i>well- to over-qualified </i></b>IT person on youtube </p>
+	 <p class="ref">
+	 <li><a  href="https://youtu.be/nb9GUwM77UM">Globale Kontrolle</a></p><p class="test">
+		by <a href="https://www.youtube.com/@TheMorpheusVlogs">morpheus</a></p>
+
+
+	 <!-- <br /><br />
+<p style="font-family: Courier; font-size: 120%">
+blabla</p>  -->
+</body>
+</html>
